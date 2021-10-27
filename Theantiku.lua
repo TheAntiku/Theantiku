@@ -4453,7 +4453,7 @@ end
 if text == "السورس" or text == "سورس" then
 Text = [[
 Welcome To Source
-TheAnTiKu 𝗍𝖾𝖺𝗆 🦇.](https://t.me/Antikuotaku.lua)
+TheAnTiKu 𝗍𝖾𝖺𝗆 🦇.](t.me/Antikuotaku)
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
